@@ -165,9 +165,10 @@ hr {
   color: black;
 }
 
+
 .butt {
-  background-color: white;
-  color: black;
+  background-color: red;
+  color: green;
 }
 .butt:hover {
   background-color: red;
